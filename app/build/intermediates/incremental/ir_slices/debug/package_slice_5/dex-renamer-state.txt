@@ -1,0 +1,4 @@
+#Wed Sep 18 23:24:00 CEST 2019
+base.0=C\:\\Users\\E6420\\Documents\\GitHub\\AplikacjaPogodowa\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
